@@ -1,4 +1,4 @@
-# Road Accident Data Analysis and Prediction in Nigeria
+# Nigerian Road Accidents Casualty Prediction
 
 ## Project Overview
 This project analyzes road accident data in Nigeria. Using a comprehensive dataset covering over 2 years, I identified key factors contributing to accidents, such as speeding and mechanical defects. The project employs Random Forest Regressor to predict accident occurrences and severity, providing actionable insights for improving road safety.
