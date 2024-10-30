@@ -1,7 +1,7 @@
 # Nigeria Road Accidents Casualty Prediction
 
 ## Project Overview
-This project aims to analyze road accident data in Nigeria to identify patterns and predict future accident casualties. It utilizes data spanning over two years to understand the leading causes of accidents and their severity across different states. The ultimate goal is to develop a predictive model to help policymakers enhance road safety measures.
+This project analyzes road accident data in Nigeria to identify patterns and predict future accident casualties. It utilizes data spanning over two years to understand the leading causes of accidents and their severity across different states. The ultimate goal is to develop a predictive model to help policymakers enhance road safety measures.
 
 ## Data Description
 Datasets Used
